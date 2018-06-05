@@ -1,19 +1,2 @@
 .idea/
-**.pyc
 
-gm/csdk/build/
-gm/csdk/c_sdk.cpp
-gm/csdk/gmsdk-c.dll
-gm/csdk/libgm3-c.so
-gm/csdk/c_sdk.pyd
-gm/csdk/c_sdk.cp36-win32.pyd
-gm/csdk/c_sdk.cp36-win_amd64.pyd
-gm/build/
-gm/dist/
-gm/gmcache/
-gm.egg-info/
-sences/gmcache/
-dist/
-third_lib/
-gmcache/
-build/
